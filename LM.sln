@@ -8,15 +8,20 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		dev|Any CPU = dev|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.dev|Any CPU.ActiveCfg = dev|Any CPU
+		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.dev|Any CPU.Build.0 = dev|Any CPU
 		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AA99379-1107-4CEE-9952-5F7ABF0F2129}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DE4C138B-A261-4569-8239-BA037C4A96FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DE4C138B-A261-4569-8239-BA037C4A96FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4C138B-A261-4569-8239-BA037C4A96FB}.dev|Any CPU.ActiveCfg = dev|Any CPU
+		{DE4C138B-A261-4569-8239-BA037C4A96FB}.dev|Any CPU.Build.0 = dev|Any CPU
 		{DE4C138B-A261-4569-8239-BA037C4A96FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE4C138B-A261-4569-8239-BA037C4A96FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
