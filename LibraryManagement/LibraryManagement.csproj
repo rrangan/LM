@@ -154,6 +154,12 @@
       <DependentUpon>Web.config</DependentUpon>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryManagement.BusinessObjects\LibraryManagement.BusinessObjects.csproj">
+      <Project>{DE4C138B-A261-4569-8239-BA037C4A96FB}</Project>
+      <Name>LibraryManagement.BusinessObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
